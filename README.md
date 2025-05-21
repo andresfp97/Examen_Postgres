@@ -16,9 +16,9 @@ El objetivo principal es centralizar y organizar la información relacionada  co
    Descargar e instalar la versión más reciente de DBeaver.
 
 3. **Clonar o descargar los archivos del proyecto**  
-   - `ddl.sql`  
-   - `dml.sql`  
-   - `dql_select.sql`  
+   - `db.sql`  
+   - `insert.sql`  
+   - `consultas.sql`  
 
    Ejecutar `dml.sql` para insertar los datos base (departamentos, parques, áreas, empleados, visitantes, etc.).
 
